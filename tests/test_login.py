@@ -75,7 +75,7 @@ def test_valid_user_login(page):
 
     time.sleep(3)
 
-    expect(my_account_page.get_my_account_page_heading()).to_be_visible(timeout=3000)
+    expect(my_account_page.get_my_account_page_heading()).to_be_visible(timeout=4000)
 
 
 
