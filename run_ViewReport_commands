@@ -1,0 +1,8 @@
+#Command to execute test from the tests directory
+pytest .\tests
+
+#Command to generate allure reports after the execion is completed
+allure generate reports/allure-results/ -o reports/allure-report --clean
+
+#Command to view allure reports in browser:
+allure open allure-report

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","855","test_product_search","tests","Tue Apr 14 12:11:47 IST 2026","passed","Tue Apr 14 12:11:47 IST 2026","","test_product_search","",""
+"","6380","test_valid_user_login","tests","Tue Apr 14 12:11:34 IST 2026","passed","Tue Apr 14 12:11:40 IST 2026","","test_login","",""
+"","3733","test_user_registration","tests","Tue Apr 14 12:11:52 IST 2026","passed","Tue Apr 14 12:11:56 IST 2026","","test_user_registration","",""
